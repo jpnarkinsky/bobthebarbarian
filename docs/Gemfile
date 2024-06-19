@@ -37,5 +37,4 @@ gem "wdm", "~> 0.1.0", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "kramdown-parser-gfm"
 
 
-# Github pages support
-gem "github-pages", "~> 3.9.5", group: :jekyll_plugins
+gem "github-pages", "~> 231"
